@@ -4,7 +4,7 @@
 #
 Name     : R-Exact
 Version  : 2.1
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/Exact_2.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/Exact_2.1.tar.gz
 Summary  : Unconditional Exact Test
