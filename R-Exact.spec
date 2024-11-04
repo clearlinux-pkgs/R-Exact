@@ -7,7 +7,7 @@
 #
 Name     : R-Exact
 Version  : 3.3
-Release  : 28
+Release  : 29
 URL      : https://cran.r-project.org/src/contrib/Exact_3.3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/Exact_3.3.tar.gz
 Summary  : Unconditional Exact Test
